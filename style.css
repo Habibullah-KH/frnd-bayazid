@@ -112,7 +112,7 @@ body{
   font-weight: bold;
   color: rgba(0, 0, 0, 0.397);
   line-height: 1.4rem;
-  margin-bottom: 5rem;
+  margin-bottom: 2.5rem;
 }
 
 #part-two .catagory{
@@ -120,6 +120,8 @@ body{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
+  padding-top: 2.5rem;
+  border-top: 2px solid rgba(0, 0, 0, 0.089);
 }
 
 #part-two .item{
