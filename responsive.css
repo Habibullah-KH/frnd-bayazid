@@ -5,6 +5,22 @@
     margin: 1rem;
 
   }
+
+  
+
+#part-one{
+
+  padding: 1rem;
+
+}
+
+
+#part-two {
+
+  padding: 1rem;
+
+
+}
 }
 
 
@@ -18,6 +34,23 @@
   flex-direction: column;
 
 }
+
+
+#part-one{
+
+  padding: 2rem;
+
+}
+
+
+#part-two {
+
+  padding: 2rem;
+
+
+}
+
+
 }
 
 
