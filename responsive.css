@@ -69,11 +69,12 @@
   #part-two {
   
     padding: 1rem;
+    
   }
 
   .part-two_bottomsection{
 
     position: relative;
-    bottom: 0px;
+    bottom: -30px;
   }
   }
