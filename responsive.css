@@ -1,0 +1,41 @@
+@media screen   and  (max-width: 650px) {
+  
+  #container{
+
+    margin: 1rem;
+
+  }
+}
+
+
+@media screen   and  (max-width: 850px) {
+  
+
+  
+#part-two .catagory{
+
+  display: flex;
+  flex-direction: column;
+
+}
+}
+
+
+@media screen   and  (max-width: 1200px) {
+  
+
+  #container{
+
+
+    display: flex;
+    flex-direction: column;
+
+
+  }
+
+  
+#part-one{
+
+  border-radius: 2rem;
+}
+}
