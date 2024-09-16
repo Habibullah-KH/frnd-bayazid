@@ -128,7 +128,7 @@ body{
   padding: 1rem;
   border-radius: 2rem;
   transition: ease-in-out 0.3s;
-  border: 2px solid rgba(119, 136, 153, 0.048);
+  border: 2px solid rgba(119, 136, 153, 0.199);
   /* align-items: baseline; */
 }
 
